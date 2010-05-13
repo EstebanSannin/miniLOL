@@ -1,1 +1,14 @@
-add monitor.cgi in the directory /data and go to url: miniLOL/#page=monitor.cgi
+#####################################################
+#                                                   #
+# AUTHOR: Stefano Viola aka Esteban Sannin          #
+# INFO: this is a monitor cgi for GNU/Linux Server  #                                                
+# LICENZE: GPL v.3                                  #
+#                                                   #
+#####################################################
+
+INSTALL:
+        add monitor.cgi in the directory /data and go to url: miniLOL/#page=monitor.cgi
+
+COMPILING:
+        x86 System: compiling with gcc
+        for other architecture using the toolchain dedicated
